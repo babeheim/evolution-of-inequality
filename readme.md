@@ -1,7 +1,7 @@
 evolution-of-inequality
 ============
 
-Data processing and figure script for "The Evolution of Inequality", by Siobhán M. Mattison, Eric A. Smith, Mary K. Shenk, Ethan E. Cochrane, in Evolutionary Anthropology (for this manuscript, I am acknowledged for preparing and analyzing the data, and created the figures)
+Data processing and figure script for "The Evolution of Inequality", by Siobhán M. Mattison, Eric A. Smith, Mary K. Shenk, Ethan E. Cochrane, in Evolutionary Anthropology (for this manuscript, I am acknowledged for preparing and analyzing the data, and creating the figures)
 DOI: https://doi.org/10.1002/evan.21491
 
 The ice core data used in Figure 1 and Figure 2 was extracted directly from Petit JR, Jouzel J, Raynaud D, et al. (1999) "Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica." Nature 399:429–43, DOI: https://doi.org/10.1038/20859, Figure 3.
